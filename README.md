@@ -1,12 +1,12 @@
 # 🛒 SmartCart
 
-SmartCart is a machine learning–powered project designed to make shopping smarter and more personalized.  
-It helps in recommending products, analyzing customer behavior, and optimizing cart management.
+SmartCart is a machine learning–powered project built to make shopping smarter and more personalized.  
+It recommends products, analyzes customer behavior, and helps optimize cart management in a simple, efficient way.
 
 ---
 
 ## 📂 Project Structure
-- **data/** → Raw and cleaned datasets  
+- **data/** → Raw and processed datasets  
 - **notebooks/** → Jupyter notebooks for experiments and model training  
 - **scripts/** → Python scripts for preprocessing, training, and evaluation  
 - **models/** → Saved ML models  
@@ -15,10 +15,10 @@ It helps in recommending products, analyzing customer behavior, and optimizing c
 ---
 
 ## 🚀 Features
-- Product recommendation system  
+- Personalized product recommendation system  
 - Customer purchase pattern analysis  
-- Fraud detection pipeline (Logistic Regression, Random Forest, SMOTE)  
-- Easy‑to‑use modular codebase  
+- Fraud detection pipeline using Logistic Regression, Random Forest, and SMOTE  
+- Clean, modular codebase that’s easy to extend  
 
 ---
 
